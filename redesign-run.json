@@ -10,7 +10,7 @@
   "aiGatewayBudget": 1,
   "startedAt": "2026-07-30T23:14:41.054Z",
   "status": "running",
-  "phase": "draft",
+  "phase": "build",
   "researchModel": "deepseek/deepseek-v4-pro",
   "draftModel": "openai/gpt-5.6-sol",
   "implementationModel": "deepseek/deepseek-v4-pro",
