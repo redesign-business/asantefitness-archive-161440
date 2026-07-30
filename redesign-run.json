@@ -9,8 +9,8 @@
   "aiGatewayKeyName": "redesign-asantefitness-archive-161440-ms84sasm",
   "aiGatewayBudget": 1,
   "startedAt": "2026-07-30T23:14:41.054Z",
-  "status": "running",
-  "phase": "deploy",
+  "status": "succeeded",
+  "phase": "done",
   "researchModel": "deepseek/deepseek-v4-pro",
   "draftModel": "openai/gpt-5.6-sol",
   "implementationModel": "deepseek/deepseek-v4-pro",
@@ -23,5 +23,43 @@
   "buildCommands": [
     "build-1"
   ],
-  "repairCommands": []
+  "repairCommands": [],
+  "endedAt": "2026-07-30T23:21:36.503Z",
+  "wallTimeSeconds": 415,
+  "redesignUrl": "https://asantefitness-archive-161440.redesign.business",
+  "estimatedUsageByModel": [
+    {
+      "model": "deepseek/deepseek-v4-pro",
+      "inputTokens": 96762,
+      "outputTokens": 880,
+      "cachedInputTokens": 290944,
+      "cacheCreationInputTokens": 0,
+      "reasoningTokens": 996,
+      "requestCount": 1,
+      "totalCost": 0.0439044684,
+      "marketCost": 0.0439044684
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "inputTokens": 9,
+      "outputTokens": 4749,
+      "cachedInputTokens": 13619,
+      "cacheCreationInputTokens": 8359,
+      "reasoningTokens": 350,
+      "requestCount": 1,
+      "totalCost": 0.20156825,
+      "marketCost": 0.20156825
+    }
+  ],
+  "estimatedTotalUsage": {
+    "totalCost": 0.2454727184,
+    "marketCost": 0.2454727184,
+    "inputTokens": 96771,
+    "outputTokens": 5629,
+    "cachedInputTokens": 304563,
+    "cacheCreationInputTokens": 8359,
+    "reasoningTokens": 1346,
+    "requestCount": 2
+  },
+  "aiGatewayKeyDeletedAt": "2026-07-30T23:21:37.575Z"
 }
