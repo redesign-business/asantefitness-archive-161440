@@ -1,0 +1,17 @@
+{
+  "slug": "asantefitness-archive-161440",
+  "originalUrl": "https://web.archive.org/web/20220702171657/http://www.asantefitness.com/",
+  "instagramUrl": "https://www.instagram.com/asante.tahoe/",
+  "repoUrl": "https://github.com/redesign-business/asantefitness-archive-161440",
+  "expectedRedesignUrl": "https://asantefitness-archive-161440.redesign.business",
+  "sandbox": "redesign-asantefitness-archive-161440-ca6ebf33",
+  "aiGatewayKeyId": "wThgEKh6lwQSkdbgCHxDyJ2vrMt66LiBJNR7wHxKPCWfgZeY",
+  "aiGatewayKeyName": "redesign-asantefitness-archive-161440-ms84sasm",
+  "aiGatewayBudget": 1,
+  "startedAt": "2026-07-30T23:14:41.054Z",
+  "status": "running",
+  "phase": "setup",
+  "researchModel": "deepseek/deepseek-v4-pro",
+  "draftModel": "openai/gpt-5.6-sol",
+  "implementationModel": "deepseek/deepseek-v4-pro"
+}
