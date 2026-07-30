@@ -19,5 +19,9 @@
   ],
   "draftAttempts": [
     "draft-d052b99b"
-  ]
+  ],
+  "buildCommands": [
+    "build-1"
+  ],
+  "repairCommands": []
 }
